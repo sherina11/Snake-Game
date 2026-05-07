@@ -99,6 +99,7 @@ Snake-Game/
 ## Author
 
 Raja Sherina T
+CSE Dept
 
 GitHub: Add your GitHub profile link here.
 
