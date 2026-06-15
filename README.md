@@ -1,4 +1,4 @@
-# Snake Game in C
+# Snake Game in C 
 
 A simple console-based Snake Game developed using the C programming language.  
 The game runs in the terminal and allows the player to control a snake, eat fruits, and increase the score.
