@@ -6,7 +6,7 @@ The game runs in the terminal and allows the player to control a snake, eat frui
 ---
 
 ## Features
-
+ 
 - Console-based gameplay
 - Snake movement using keyboard
 - Score tracking
