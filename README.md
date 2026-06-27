@@ -12,7 +12,7 @@ The game runs in the terminal and allows the player to control a snake, eat frui
 - Score tracking 
 - Fruit generation
 - Game over detection    
-- Tail growth after eating fruit
+- Tail growth after eating fruit 
 
 ---
 
