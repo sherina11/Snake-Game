@@ -9,7 +9,7 @@ The game runs in the terminal and allows the player to control a snake, eat frui
   
 - Console-based gameplay     
 - Snake movement using keyboard   
-- Score tracking 
+- Score tracking  
 - Fruit generation
 - Game over detection    
 - Tail growth after eating fruit 
